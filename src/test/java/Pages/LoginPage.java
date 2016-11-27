@@ -13,7 +13,7 @@ import java.sql.Driver;
 public class LoginPage extends BasePage {
 
 
-    
+
 	@FindBy(id="mailbox__login")
 	private WebElement loginName;
 

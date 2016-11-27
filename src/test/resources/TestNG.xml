@@ -1,0 +1,7 @@
+<suite name="myTest">
+    <test name="testGreadle">
+        <classes>
+            <class name="Tests.MyTest"/>
+        </classes>
+    </test>
+</suite>
